@@ -1,2 +1,2 @@
 FROM nginx:latest
-COPY Y:\Modul 109\auftrag3
+COPY index.html /usr/share/nginx/html
